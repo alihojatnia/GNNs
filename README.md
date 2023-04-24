@@ -6,3 +6,7 @@ GNNs are motivated by the observation that many real-world problems can be model
 
 hands on GNN
 [github](https://github.com/dglai/WWW20-Hands-on-Tutorial)
+
+###paper
+- [https://arxiv.org/pdf/2304.10031.pdf] Architectures of Topological Deep Learning:A Survey on Topological Neural Networks
+Mathilde Papillon Sophia Sanborn Mustafa Hajij Nina Miolane
