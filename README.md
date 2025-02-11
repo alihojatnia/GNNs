@@ -12,3 +12,5 @@ Mathilde Papillon Sophia Sanborn Mustafa Hajij Nina Miolane
 
 - hands on GNN
 [github](https://github.com/dglai/WWW20-Hands-on-Tutorial)
+- The Expressive Power of GNNs
+[page](https://ai.gopubby.com/the-expressive-power-of-gnns-invariance-and-equivariance-101768971cd9)
